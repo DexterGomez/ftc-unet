@@ -1,0 +1,8 @@
+data/
+old_files/
+workdata/
+logs/
+nohub.out
+augmentate.ipynb
+weights/
+Test03.h5
